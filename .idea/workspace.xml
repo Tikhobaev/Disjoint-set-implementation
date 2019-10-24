@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="disjoint_set" targetName="disjoint_set" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96fa1177-70d2-4764-92a7-256dabef84d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RdtiecQMftWKNLnHrNQiHYtBDz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../skip_list_implementation" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="disjoint_set" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="disjoint_set" TARGET_NAME="disjoint_set" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="disjoint_set" RUN_TARGET_NAME="disjoint_set">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96fa1177-70d2-4764-92a7-256dabef84d8" name="Default Changelist" comment="" />
+      <created>1570008928491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570008928491</updated>
+      <workItem from="1570008931510" duration="8066000" />
+      <workItem from="1570198109900" duration="55000" />
+      <workItem from="1570292972696" duration="475000" />
+      <workItem from="1570355000121" duration="15000" />
+      <workItem from="1570362757213" duration="9913000" />
+      <workItem from="1570443848859" duration="31565000" />
+      <workItem from="1570521432200" duration="3593000" />
+      <workItem from="1570538494183" duration="1851000" />
+      <workItem from="1570600557533" duration="31000" />
+      <workItem from="1570602554443" duration="659000" />
+      <workItem from="1571400324921" duration="22000" />
+      <workItem from="1571415988335" duration="1071000" />
+      <workItem from="1571488873253" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
